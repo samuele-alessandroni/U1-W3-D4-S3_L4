@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    background-color: #c6e9f9;
+    max-width: 950px;
+    margin-inline: auto;
+    margin-top: 10rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+.cell{
+    display: inline-block;
+    padding: 1rem 2rem;
+    margin: 0.4rem;
+    border: 1px solid black;
+    
+}
